@@ -1,4 +1,9 @@
 //PONG//
+
+//CONTROLS//
++ Player 1: W to move up, S to move down, G to power up
++ Player 2: UP button to move up, DOWN button to move down, H to power up
+
 //SPECS&MODS//
 + The Space button is needed to be pressed in order to start the game aron ang players maoy maka decide if ready na ba sila or dili
 + Freezes the game for 2.5 secs every after nay maka point aron maka prepare sila sa ilang self for the next round
